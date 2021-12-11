@@ -1,0 +1,524 @@
+{
+  "took": 1460,
+  "timed_out": false,
+  "_shards": {
+    "total": 3,
+    "successful": 3,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 764,
+      "relation": "eq"
+    },
+    "max_score": 1129.2189,
+    "hits": [
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1084468832415166467",
+        "_score": 1129.2189,
+        "_routing": "1084468832415166467",
+        "_source": {
+          "content": "CDC Admits On Its Website That Vaccines Contain Harmful Ingredients. On Their \\u201cIngredients Of Vaccines Fact Sheet,\\u201d They Admit Formaldehyde, Monosodium Glutamate (MSG), And Thimerosal Are Commonly Found In Vaccines.\n\nhttps://t.co/LhMZix9UtS\n\n#QAnon Vaccine #GreatAwakening @potus https://t.co/LQ8ihMHqbi",
+          "location": null,
+          "retweet_count": 268,
+          "favorite_count": 244,
+          "neg": 0,
+          "neu": 0.886,
+          "pos": 0.114,
+          "compound": 0.4588,
+          "happened_at": "2019-01-13T16:14:52+01:00",
+          "author": {
+            "id": "819201209991041024",
+            "screen_name": "WarNuse",
+            "name": "WarNuse",
+            "description": "A Covfefe Table Book\\u2122\n\n#4508 #4512",
+            "followers_count": 96114,
+            "friends_count": 45,
+            "statuses_count": 18041
+          },
+          "country": null,
+          "parent_id": null,
+          "hashtags": [
+            "QAnon",
+            "GreatAwakening"
+          ],
+          "mentions": [
+            {
+              "id": "822215679726100480",
+              "screen_name": "POTUS",
+              "name": "President Trump",
+              "description": null,
+              "followers_count": null,
+              "friends_count": null,
+              "statuses_count": null
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221441433288179714",
+        "_score": 900.6637,
+        "_routing": "1221441433288179714",
+        "_source": {
+          "content": "Is New World Order, globalist hit man, Bill Gates, involved in the coronavirus?  READ THIS!\n\nDid Bill Gates &amp; World Economic Forum Predict Coronavirus Outbreak? An Inside Look May Shock You! \n\nhttps://t.co/Anli2yQWCA\n\n#TWGRP\n#MAGA \n#Trump \n#Qanon \n#Mighty200",
+          "location": null,
+          "retweet_count": 175,
+          "favorite_count": 110,
+          "neg": 0.103,
+          "neu": 0.897,
+          "pos": 0,
+          "compound": -0.549,
+          "happened_at": "2020-01-26T15:35:05+01:00",
+          "author": {
+            "id": "1106312355267469312",
+            "screen_name": "TribulationThe",
+            "name": "The Tribulation Series",
+            "description": "Author of \"The White Horse Rideth\" Book 1 of \"The Tribulation Series\" based on the End Times.  #MAGA #Christian",
+            "followers_count": 26837,
+            "friends_count": 25925,
+            "statuses_count": 55333
+          },
+          "country": null,
+          "parent_id": null,
+          "hashtags": [
+            "Qanon",
+            "MAGA",
+            "Trump",
+            "TWGRP",
+            "Mighty200"
+          ],
+          "mentions": []
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1084957682203799552",
+        "_score": 869.9126,
+        "_routing": "1084957682203799552",
+        "_source": {
+          "content": "The CDC Gets Away With Crimes Against Humanity, Shielded By Corrupt Representatives, Corrupt Administrations, And Receiving Kickbacks In Exchange For Silence.\n\nTennessee Sen. Mark Green Calls Out The CDC.\n\nDecember 20, 2018\n\nhttps://t.co/o4rtjyZemk\n\n#QAnon #Vaccine #Autism @potus https://t.co/65UotVTUgy",
+          "location": null,
+          "retweet_count": 193,
+          "favorite_count": 211,
+          "neg": 0,
+          "neu": 1,
+          "pos": 0,
+          "compound": 0,
+          "happened_at": "2019-01-15T00:37:23+01:00",
+          "author": {
+            "id": "819201209991041024",
+            "screen_name": "WarNuse",
+            "name": "WarNuse",
+            "description": "A Covfefe Table Book\\u2122\n\n#4508 #4512",
+            "followers_count": 96114,
+            "friends_count": 45,
+            "statuses_count": 18041
+          },
+          "country": null,
+          "parent_id": null,
+          "hashtags": [
+            "Autism",
+            "QAnon",
+            "Vaccine"
+          ],
+          "mentions": [
+            {
+              "id": "822215679726100480",
+              "screen_name": "POTUS",
+              "name": "President Trump",
+              "description": null,
+              "followers_count": null,
+              "friends_count": null,
+              "statuses_count": null
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1085322413565464581",
+        "_score": 869.9126,
+        "_routing": "1085322413565464581",
+        "_source": {
+          "content": "Dr. Jan Gorniak, The Chief Medical Examiner Of Fulton County, Told USA TODAY That Cunningham's Death Was Ruled A Suicide By Drowning Based On Their Investigation.\n\nMay 22, 2018\n\nhttps://t.co/iffpVPJI9H\n\n#QAnon #Vaccine #VaccineDeepState @potus https://t.co/DooUP4Hnjt",
+          "location": null,
+          "retweet_count": 103,
+          "favorite_count": 120,
+          "neg": 0.231,
+          "neu": 0.769,
+          "pos": 0,
+          "compound": -0.8555,
+          "happened_at": "2019-01-16T00:46:42+01:00",
+          "author": {
+            "id": "819201209991041024",
+            "screen_name": "WarNuse",
+            "name": "WarNuse",
+            "description": "A Covfefe Table Book\\u2122\n\n#4508 #4512",
+            "followers_count": 96114,
+            "friends_count": 45,
+            "statuses_count": 18041
+          },
+          "country": null,
+          "parent_id": null,
+          "hashtags": [
+            "VaccineDeepState",
+            "QAnon",
+            "Vaccine"
+          ],
+          "mentions": [
+            {
+              "id": "822215679726100480",
+              "screen_name": "POTUS",
+              "name": "President Trump",
+              "description": null,
+              "followers_count": null,
+              "friends_count": null,
+              "statuses_count": null
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1084932752422719490",
+        "_score": 863.1533,
+        "_routing": "1084932752422719490",
+        "_source": {
+          "content": "Truth.\n\n\\u201cThe Greatest Crisis That America Faces Today Is The Chronic Disease Epidemic In America\\u2019s Children.\\u201d - Robert F. Kennedy, Jr.\n\n@ChildDefender @RobertKennedyJr\nhttps://t.co/MR34UaZvyX \n\n#QAnon #Vaccine #Autism #GreatAwakening @potus https://t.co/SCqqAnemdU",
+          "location": null,
+          "retweet_count": 223,
+          "favorite_count": 262,
+          "neg": 0.139,
+          "neu": 0.642,
+          "pos": 0.22,
+          "compound": 0.34,
+          "happened_at": "2019-01-14T22:58:19+01:00",
+          "author": {
+            "id": "819201209991041024",
+            "screen_name": "WarNuse",
+            "name": "WarNuse",
+            "description": "A Covfefe Table Book\\u2122\n\n#4508 #4512",
+            "followers_count": 96114,
+            "friends_count": 45,
+            "statuses_count": 18041
+          },
+          "country": null,
+          "parent_id": null,
+          "hashtags": [
+            "GreatAwakening",
+            "QAnon",
+            "Vaccine",
+            "Autism"
+          ],
+          "mentions": [
+            {
+              "id": "337808606",
+              "screen_name": "RobertKennedyJr",
+              "name": "Robert F. Kennedy Jr",
+              "description": "Robert F. Kennedy, Jr. is founder + chairman of @Waterkeeper + @ChildrensH + co-counsel in #Monsanto #Roundup litigation.",
+              "followers_count": 179363,
+              "friends_count": 578,
+              "statuses_count": 3890
+            },
+            {
+              "id": "21337440",
+              "screen_name": "ChildDefender",
+              "name": "Children's Defense Fund",
+              "description": null,
+              "followers_count": null,
+              "friends_count": null,
+              "statuses_count": null
+            },
+            {
+              "id": "822215679726100480",
+              "screen_name": "POTUS",
+              "name": "President Trump",
+              "description": null,
+              "followers_count": null,
+              "friends_count": null,
+              "statuses_count": null
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1085322403859890176",
+        "_score": 848.94635,
+        "_routing": "1085322403859890176",
+        "_source": {
+          "content": "Remember Timothy Cunningham?\n\nCunningham Was A Brilliant CDC Epidemiologist Who Worked On Teams That Responded To The Ebola And Zika Crises.\n\nCunningham Went Missing February 12, 2018.\n\n#QAnon #Vaccine #VaccineDeepState @potus https://t.co/ZoHtGSyofj",
+          "location": null,
+          "retweet_count": 180,
+          "favorite_count": 191,
+          "neg": 0.071,
+          "neu": 0.806,
+          "pos": 0.123,
+          "compound": 0.3818,
+          "happened_at": "2019-01-16T00:46:40+01:00",
+          "author": {
+            "id": "819201209991041024",
+            "screen_name": "WarNuse",
+            "name": "WarNuse",
+            "description": "A Covfefe Table Book\\u2122\n\n#4508 #4512",
+            "followers_count": 96114,
+            "friends_count": 45,
+            "statuses_count": 18041
+          },
+          "country": null,
+          "parent_id": null,
+          "hashtags": [
+            "Vaccine",
+            "QAnon",
+            "VaccineDeepState"
+          ],
+          "mentions": [
+            {
+              "id": "822215679726100480",
+              "screen_name": "POTUS",
+              "name": "President Trump",
+              "description": null,
+              "followers_count": null,
+              "friends_count": null,
+              "statuses_count": null
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1085322409190846464",
+        "_score": 848.94635,
+        "_routing": "1085322409190846464",
+        "_source": {
+          "content": "Timothy Cunningham's Body Was Found Partially Submerged In The Chattahoochee River In NorthWest Atlanta. The Fulton County Medical Examiner\\u2019s Office Identified The Body.\n\nApril 5, 2018\n\nhttps://t.co/VLXdJGinTo\n\n#QAnon #Vaccine #VaccineDeepState @potus https://t.co/BrYD2eyAZn",
+          "location": null,
+          "retweet_count": 136,
+          "favorite_count": 142,
+          "neg": 0,
+          "neu": 1,
+          "pos": 0,
+          "compound": 0,
+          "happened_at": "2019-01-16T00:46:41+01:00",
+          "author": {
+            "id": "819201209991041024",
+            "screen_name": "WarNuse",
+            "name": "WarNuse",
+            "description": "A Covfefe Table Book\\u2122\n\n#4508 #4512",
+            "followers_count": 96114,
+            "friends_count": 45,
+            "statuses_count": 18041
+          },
+          "country": null,
+          "parent_id": null,
+          "hashtags": [
+            "QAnon",
+            "Vaccine",
+            "VaccineDeepState"
+          ],
+          "mentions": [
+            {
+              "id": "822215679726100480",
+              "screen_name": "POTUS",
+              "name": "President Trump",
+              "description": null,
+              "followers_count": null,
+              "friends_count": null,
+              "statuses_count": null
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1185382145478610944",
+        "_score": 731.25934,
+        "_routing": "1185382145478610944",
+        "_source": {
+          "content": "#China #Bans Exports Of Black Clothing To #HongKong Amid Escalating Social Unrest\n\nBulk items of masks, riot gear, umbrellas, helmets, and sticks, were also on the export #ban list\n\nhttps://t.co/Getjf1xfqo\n\n#QAnon #QAnon2018 #QAnon2019\n#HongKongProtests\n#HongKongProtesters https://t.co/66PcV9oSej",
+          "location": null,
+          "retweet_count": 224,
+          "favorite_count": 106,
+          "neg": 0.122,
+          "neu": 0.878,
+          "pos": 0,
+          "compound": -0.5574,
+          "happened_at": "2019-10-19T04:28:21+02:00",
+          "author": {
+            "id": "259260816",
+            "screen_name": "zeusFanHouse",
+            "name": "Zeus \\ud83c\\uddfa\\ud83c\\uddf8 \\u2b50\\u2b50\\u2b50 No Collusion, No Obstruction!",
+            "description": "'It is what it is' MAGA KAG KAG2020 TRUMP PATRIOT DrainTheSwamp VoterID Constitutional Crisis sanctuarycity\nPARLER https://t.co/6b2fnmo1iy",
+            "followers_count": 63788,
+            "friends_count": 47461,
+            "statuses_count": 462647
+          },
+          "country": null,
+          "parent_id": null,
+          "hashtags": [
+            "HongKongProtesters",
+            "QAnon2019",
+            "HongKong",
+            "China",
+            "QAnon2018",
+            "QAnon",
+            "ban",
+            "HongKongProtests",
+            "Bans"
+          ],
+          "mentions": []
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1209253295690305537",
+        "_score": 727.3383,
+        "_routing": "1209253295690305537",
+        "_source": {
+          "content": "#China Claims US #SpaceForce a 'Direct Threat to Peace'\n\nSpace Force is officially the sixth #military branch\n\n#Beijing was \\u201cdeeply concerned\\u201d &amp; \\u201cresolutely opposed\\u201d Space Force, which received funding from Pres #Trump...\n\nhttps://t.co/yTKrqBPSAh\n\n#QAnon #QAnon2018 #QAnon2019 https://t.co/keAcrqg8KI",
+          "location": null,
+          "retweet_count": 336,
+          "favorite_count": 317,
+          "neg": 0.103,
+          "neu": 0.79,
+          "pos": 0.106,
+          "compound": 0.0258,
+          "happened_at": "2019-12-24T00:23:47+01:00",
+          "author": {
+            "id": "259260816",
+            "screen_name": "zeusFanHouse",
+            "name": "Zeus \\ud83c\\uddfa\\ud83c\\uddf8 \\u2b50\\u2b50\\u2b50 No Collusion, No Obstruction!",
+            "description": "'It is what it is' MAGA KAG KAG2020 TRUMP PATRIOT DrainTheSwamp VoterID Constitutional Crisis sanctuarycity\nPARLER https://t.co/6b2fnmo1iy",
+            "followers_count": 63788,
+            "friends_count": 47461,
+            "statuses_count": 462647
+          },
+          "country": null,
+          "parent_id": null,
+          "hashtags": [
+            "Beijing",
+            "Trump",
+            "QAnon2018",
+            "QAnon",
+            "China",
+            "QAnon2019",
+            "military",
+            "SpaceForce"
+          ],
+          "mentions": []
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221840734271299585",
+        "_score": 442.78278,
+        "_routing": "1220807218876076033",
+        "_source": {
+          "content": "RT @RokJohannes: #BillGates #Vaccination #CIA #Soros #DeepState #WWG1WGA #QAnon #MAGA #DrainTheSwamp\n \nBill Gates kept telling us a pandemi\\u2026",
+          "location": null,
+          "retweet_count": 43,
+          "favorite_count": 0,
+          "neg": 0,
+          "neu": 1,
+          "pos": 0,
+          "compound": 0,
+          "happened_at": "2020-01-27T18:01:46+01:00",
+          "author": {
+            "id": "269087226",
+            "screen_name": "mayumitakeda_NY",
+            "name": "\\ud83e\\udddf\\u200d\\u2640\\ufe0f \\ud835\\udd44\\ud835\\udd52\\ud835\\udd6a\\ud835\\udd66\\ud835\\udd5e\\ud835\\udd5a \\ud835\\udd4b\\ud835\\udd52\\ud835\\udd5c\\ud835\\udd56\\ud835\\udd55\\ud835\\udd52 \\ud83c\\uddfa\\ud83c\\uddf8\\u2615\\ufe0f",
+            "description": "NY\\u5728\\u8074\\u899a\\u969c\\u5bb3\\u8005\\u30012017\\u5e74\\u4e0d\\u5409\\u306a13\\u65e5\\u91d1\\u66dc\\u65e5\\u306b\\u7c73\\u56fd\\u4eba\\u3068\\u3057\\u3066\\u5e30\\u5316 \\u6b66\\u7530\\u9ebb\\u5f13\\u300c\\u30d5\\u30a1\\u30a4\\u30c8\\uff01\\u300d\\u5e7b\\u51ac\\u820e\\u3088\\u308a\\u51fa\\u7248\\u3002JPN-American\\ud83c\\uddfa\\ud83c\\uddf8\\ud83c\\uddef\\ud83c\\uddf5, Patriot, Deaf local guide, author, nanny. Music \\ud83c\\udfb6 is my life. M.A.G.A.\\ud83c\\udf0e\\ud83d\\udc38\\ud83d\\udc7d",
+            "followers_count": 3526,
+            "friends_count": 3416,
+            "statuses_count": 77656
+          },
+          "country": null,
+          "parent_id": "1220807218876076033",
+          "hashtags": [
+            "MAGA",
+            "WWG1WGA",
+            "QAnon",
+            "DeepState",
+            "DrainTheSwamp",
+            "CIA",
+            "Vaccination",
+            "Soros",
+            "BillGates"
+          ],
+          "mentions": [
+            {
+              "id": "1155821644864204800",
+              "screen_name": "RokJohannes",
+              "name": "R O Q",
+              "description": "#WeAreTheNewsNow #QAnon #MAGA #WhiteDragonSociety #WWG1WGA #DrainTheSwamp #TheGreatAwakening #CoronaGate",
+              "followers_count": 24148,
+              "friends_count": 18388,
+              "statuses_count": 644
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "aggregations": {
+    "bucket_hashtags": {
+      "doc_count_error_upper_bound": 19,
+      "sum_other_doc_count": 1354,
+      "buckets": [
+        {
+          "key": "qanon",
+          "doc_count": 764
+        },
+        {
+          "key": "coronavirus",
+          "doc_count": 181
+        },
+        {
+          "key": "maga",
+          "doc_count": 132
+        },
+        {
+          "key": "wwg1wga",
+          "doc_count": 125
+        },
+        {
+          "key": "wuhan",
+          "doc_count": 82
+        },
+        {
+          "key": "fakenews",
+          "doc_count": 70
+        },
+        {
+          "key": "china",
+          "doc_count": 51
+        },
+        {
+          "key": "billgates",
+          "doc_count": 42
+        },
+        {
+          "key": "deepstate",
+          "doc_count": 38
+        },
+        {
+          "key": "soros",
+          "doc_count": 35
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "took": 1695,
+  "timed_out": false,
+  "_shards": {
+    "total": 3,
+    "successful": 3,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 764,
+      "relation": "eq"
+    },
+    "max_score": 147.59425,
+    "hits": [
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221840734271299585",
+        "_score": 147.59425,
+        "_routing": "1220807218876076033",
+        "_source": {
+          "content": "RT @RokJohannes: #BillGates #Vaccination #CIA #Soros #DeepState #WWG1WGA #QAnon #MAGA #DrainTheSwamp\n \nBill Gates kept telling us a pandemi\\u2026",
+          "location": null,
+          "retweet_count": 43,
+          "favorite_count": 0,
+          "neg": 0,
+          "neu": 1,
+          "pos": 0,
+          "compound": 0,
+          "happened_at": "2020-01-27T18:01:46+01:00",
+          "author": {
+            "id": "269087226",
+            "screen_name": "mayumitakeda_NY",
+            "name": "\\ud83e\\udddf\\u200d\\u2640\\ufe0f \\ud835\\udd44\\ud835\\udd52\\ud835\\udd6a\\ud835\\udd66\\ud835\\udd5e\\ud835\\udd5a \\ud835\\udd4b\\ud835\\udd52\\ud835\\udd5c\\ud835\\udd56\\ud835\\udd55\\ud835\\udd52 \\ud83c\\uddfa\\ud83c\\uddf8\\u2615\\ufe0f",
+            "description": "NY\\u5728\\u8074\\u899a\\u969c\\u5bb3\\u8005\\u30012017\\u5e74\\u4e0d\\u5409\\u306a13\\u65e5\\u91d1\\u66dc\\u65e5\\u306b\\u7c73\\u56fd\\u4eba\\u3068\\u3057\\u3066\\u5e30\\u5316 \\u6b66\\u7530\\u9ebb\\u5f13\\u300c\\u30d5\\u30a1\\u30a4\\u30c8\\uff01\\u300d\\u5e7b\\u51ac\\u820e\\u3088\\u308a\\u51fa\\u7248\\u3002JPN-American\\ud83c\\uddfa\\ud83c\\uddf8\\ud83c\\uddef\\ud83c\\uddf5, Patriot, Deaf local guide, author, nanny. Music \\ud83c\\udfb6 is my life. M.A.G.A.\\ud83c\\udf0e\\ud83d\\udc38\\ud83d\\udc7d",
+            "followers_count": 3526,
+            "friends_count": 3416,
+            "statuses_count": 77656
+          },
+          "country": null,
+          "parent_id": "1220807218876076033",
+          "hashtags": [
+            "MAGA",
+            "WWG1WGA",
+            "QAnon",
+            "DeepState",
+            "DrainTheSwamp",
+            "CIA",
+            "Vaccination",
+            "Soros",
+            "BillGates"
+          ],
+          "mentions": [
+            {
+              "id": "1155821644864204800",
+              "screen_name": "RokJohannes",
+              "name": "R O Q",
+              "description": "#WeAreTheNewsNow #QAnon #MAGA #WhiteDragonSociety #WWG1WGA #DrainTheSwamp #TheGreatAwakening #CoronaGate",
+              "followers_count": 24148,
+              "friends_count": 18388,
+              "statuses_count": 644
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221006635377754112",
+        "_score": 112.36423,
+        "_routing": "1221006633741873153",
+        "_source": {
+          "content": "RT @RokJohannes: #BillGates #Vaccination #CoronaroVirus #CoronaVirus #CIA #Soros #DeepState #WWG1WGA #QAnon #MAGA #DrainTheSwamp\n\nBREAKING:\\u2026",
+          "location": null,
+          "retweet_count": 28,
+          "favorite_count": 0,
+          "neg": 0,
+          "neu": 1,
+          "pos": 0,
+          "compound": 0,
+          "happened_at": "2020-01-25T10:47:21+01:00",
+          "author": {
+            "id": "1187312394894237696",
+            "screen_name": "Roky79745946",
+            "name": "Roky",
+            "description": "#IStandWithPresidentTrump",
+            "followers_count": 141,
+            "friends_count": 333,
+            "statuses_count": 1267
+          },
+          "country": null,
+          "parent_id": "1221006547985321986",
+          "hashtags": [
+            "DeepState",
+            "MAGA",
+            "QAnon",
+            "WWG1WGA",
+            "CoronaVirus",
+            "CoronaroVirus",
+            "Soros",
+            "Vaccination",
+            "CIA",
+            "BillGates",
+            "DrainTheSwamp"
+          ],
+          "mentions": [
+            {
+              "id": "1155821644864204800",
+              "screen_name": "RokJohannes",
+              "name": "R O Q",
+              "description": "#WeAreTheNewsNow #QAnon #MAGA #WhiteDragonSociety #WWG1WGA #DrainTheSwamp #TheGreatAwakening #CoronaGate",
+              "followers_count": 24148,
+              "friends_count": 18388,
+              "statuses_count": 644
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221030031893442560",
+        "_score": 112.36423,
+        "_routing": "1221030031843110912",
+        "_source": {
+          "content": "RT @RokJohannes: #BillGates #Vaccination #CoronaroVirus #CoronaVirus #CIA #Soros #DeepState #WWG1WGA #QAnon #MAGA #DrainTheSwamp\n\nBREAKING:\\u2026",
+          "location": null,
+          "retweet_count": 28,
+          "favorite_count": 0,
+          "neg": 0,
+          "neu": 1,
+          "pos": 0,
+          "compound": 0,
+          "happened_at": "2020-01-25T12:20:19+01:00",
+          "author": {
+            "id": "915237177839243264",
+            "screen_name": "calder_price",
+            "name": "Calder B. Price",
+            "description": "Writer & UNC-Chapel Hill alumna-Go Heels! Constructionist. Patriotic & Accountable. #Patriot #KAG #MAGA2020",
+            "followers_count": 7213,
+            "friends_count": 6945,
+            "statuses_count": 19864
+          },
+          "country": null,
+          "parent_id": "1221006547985321986",
+          "hashtags": [
+            "QAnon",
+            "CoronaVirus",
+            "DeepState",
+            "WWG1WGA",
+            "MAGA",
+            "Soros",
+            "BillGates",
+            "CoronaroVirus",
+            "Vaccination",
+            "CIA",
+            "DrainTheSwamp"
+          ],
+          "mentions": [
+            {
+              "id": "1155821644864204800",
+              "screen_name": "RokJohannes",
+              "name": "R O Q",
+              "description": "#WeAreTheNewsNow #QAnon #MAGA #WhiteDragonSociety #WWG1WGA #DrainTheSwamp #TheGreatAwakening #CoronaGate",
+              "followers_count": 24148,
+              "friends_count": 18388,
+              "statuses_count": 644
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221012163344719872",
+        "_score": 110.06831,
+        "_routing": "1221012158525399040",
+        "_source": {
+          "content": "RT @RokJohannes: #BillGates #Vaccination #CoronaroVirus #CoronaVirus #CIA #Soros #DeepState #WWG1WGA #QAnon #MAGA #DrainTheSwamp\n\nBREAKING:\\u2026",
+          "location": null,
+          "retweet_count": 28,
+          "favorite_count": 0,
+          "neg": 0,
+          "neu": 1,
+          "pos": 0,
+          "compound": 0,
+          "happened_at": "2020-01-25T11:09:19+01:00",
+          "author": {
+            "id": "717937938",
+            "screen_name": "BoriquaGoddess",
+            "name": "Domestic Goddess\\ud83c\\uddfa\\ud83c\\uddf8",
+            "description": "I \\u2764USA\\ud83c\\uddfa\\ud83c\\uddf8 ! Support our Troops/Vets/Police/1st Responders \\u2764\\ufe0f #MAGA #POTUS \\u2764I respect UR opinions kindly respect MINE! NO\\ud83d\\udeabLISTS \\u2022 NO\\ud83d\\udeabDM \\u2022NOT A DATING SITE!",
+            "followers_count": 4845,
+            "friends_count": 3941,
+            "statuses_count": 459126
+          },
+          "country": null,
+          "parent_id": "1221006547985321986",
+          "hashtags": [
+            "Soros",
+            "Vaccination",
+            "MAGA",
+            "WWG1WGA",
+            "DeepState",
+            "CoronaVirus",
+            "QAnon",
+            "CoronaroVirus",
+            "DrainTheSwamp",
+            "CIA",
+            "BillGates"
+          ],
+          "mentions": [
+            {
+              "id": "1155821644864204800",
+              "screen_name": "RokJohannes",
+              "name": "R O Q",
+              "description": "#WeAreTheNewsNow #QAnon #MAGA #WhiteDragonSociety #WWG1WGA #DrainTheSwamp #TheGreatAwakening #CoronaGate",
+              "followers_count": 24148,
+              "friends_count": 18388,
+              "statuses_count": 644
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221015815635468288",
+        "_score": 110.06831,
+        "_routing": "1221015804302381056",
+        "_source": {
+          "content": "RT @RokJohannes: #BillGates #Vaccination #CoronaroVirus #CoronaVirus #CIA #Soros #DeepState #WWG1WGA #QAnon #MAGA #DrainTheSwamp\n\nBREAKING:\\u2026",
+          "location": null,
+          "retweet_count": 28,
+          "favorite_count": 0,
+          "neg": 0,
+          "neu": 1,
+          "pos": 0,
+          "compound": 0,
+          "happened_at": "2020-01-25T11:23:50+01:00",
+          "author": {
+            "id": "988649675929604098",
+            "screen_name": "discotracker",
+            "name": "Discotracker",
+            "description": "Searching for Truth in all the Dark places\n#WWG1WGA #Nexit",
+            "followers_count": 633,
+            "friends_count": 672,
+            "statuses_count": 16605
+          },
+          "country": null,
+          "parent_id": "1221006547985321986",
+          "hashtags": [
+            "MAGA",
+            "QAnon",
+            "WWG1WGA",
+            "DeepState",
+            "CoronaVirus",
+            "CoronaroVirus",
+            "BillGates",
+            "CIA",
+            "Vaccination",
+            "Soros",
+            "DrainTheSwamp"
+          ],
+          "mentions": [
+            {
+              "id": "1155821644864204800",
+              "screen_name": "RokJohannes",
+              "name": "R O Q",
+              "description": "#WeAreTheNewsNow #QAnon #MAGA #WhiteDragonSociety #WWG1WGA #DrainTheSwamp #TheGreatAwakening #CoronaGate",
+              "followers_count": 24148,
+              "friends_count": 18388,
+              "statuses_count": 644
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221016417715347456",
+        "_score": 110.06831,
+        "_routing": "1221016416310173696",
+        "_source": {
+          "content": "RT @RokJohannes: #BillGates #Vaccination #CoronaroVirus #CoronaVirus #CIA #Soros #DeepState #WWG1WGA #QAnon #MAGA #DrainTheSwamp\n\nBREAKING:\\u2026",
+          "location": null,
+          "retweet_count": 28,
+          "favorite_count": 0,
+          "neg": 0,
+          "neu": 1,
+          "pos": 0,
+          "compound": 0,
+          "happened_at": "2020-01-25T11:26:14+01:00",
+          "author": {
+            "id": "31263901",
+            "screen_name": "mo_ni_q2025",
+            "name": "hotgurlMoMo",
+            "description": "As open minded as I can be, I believe the human spirit overcomes all. Man U fan 4 life and a dedicated mom.",
+            "followers_count": 290,
+            "friends_count": 111,
+            "statuses_count": 26983
+          },
+          "country": null,
+          "parent_id": "1221006547985321986",
+          "hashtags": [
+            "Vaccination",
+            "Soros",
+            "BillGates",
+            "CIA",
+            "DrainTheSwamp",
+            "QAnon",
+            "CoronaVirus",
+            "WWG1WGA",
+            "DeepState",
+            "MAGA",
+            "CoronaroVirus"
+          ],
+          "mentions": [
+            {
+              "id": "1155821644864204800",
+              "screen_name": "RokJohannes",
+              "name": "R O Q",
+              "description": "#WeAreTheNewsNow #QAnon #MAGA #WhiteDragonSociety #WWG1WGA #DrainTheSwamp #TheGreatAwakening #CoronaGate",
+              "followers_count": 24148,
+              "friends_count": 18388,
+              "statuses_count": 644
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221060640628006912",
+        "_score": 110.06831,
+        "_routing": "1221060639508115457",
+        "_source": {
+          "content": "RT @RokJohannes: #BillGates #Vaccination #CoronaroVirus #CoronaVirus #CIA #Soros #DeepState #WWG1WGA #QAnon #MAGA #DrainTheSwamp\n\nBREAKING:\\u2026",
+          "location": null,
+          "retweet_count": 28,
+          "favorite_count": 0,
+          "neg": 0,
+          "neu": 1,
+          "pos": 0,
+          "compound": 0,
+          "happened_at": "2020-01-25T14:21:57+01:00",
+          "author": {
+            "id": "1204032922321375233",
+            "screen_name": "CTenfor",
+            "name": "Capt 10-4 \\ud83d\\ude81",
+            "description": "WWG1WGA\nPATRIOT\nIT'S TIME TO KICK ASS\nI'm on my 6th Twitter account!  JACK & COMPANY hate me.   I just be doing something right!",
+            "followers_count": 314,
+            "friends_count": 148,
+            "statuses_count": 15658
+          },
+          "country": null,
+          "parent_id": "1221006547985321986",
+          "hashtags": [
+            "BillGates",
+            "QAnon",
+            "MAGA",
+            "CoronaVirus",
+            "DeepState",
+            "WWG1WGA",
+            "CoronaroVirus",
+            "Soros",
+            "Vaccination",
+            "CIA",
+            "DrainTheSwamp"
+          ],
+          "mentions": [
+            {
+              "id": "1155821644864204800",
+              "screen_name": "RokJohannes",
+              "name": "R O Q",
+              "description": "#WeAreTheNewsNow #QAnon #MAGA #WhiteDragonSociety #WWG1WGA #DrainTheSwamp #TheGreatAwakening #CoronaGate",
+              "followers_count": 24148,
+              "friends_count": 18388,
+              "statuses_count": 644
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221030843327664129",
+        "_score": 110.06831,
+        "_routing": "1221030840261627904",
+        "_source": {
+          "content": "RT @RokJohannes: #BillGates #Vaccination #CoronaroVirus #CoronaVirus #CIA #Soros #DeepState #WWG1WGA #QAnon #MAGA #DrainTheSwamp\n\nBREAKING:\\u2026",
+          "location": null,
+          "retweet_count": 28,
+          "favorite_count": 0,
+          "neg": 0,
+          "neu": 1,
+          "pos": 0,
+          "compound": 0,
+          "happened_at": "2020-01-25T12:23:33+01:00",
+          "author": {
+            "id": "935048626962911232",
+            "screen_name": "RedPilledAmer",
+            "name": "Curly \\u274c\\ud83c\\udf1f\\ud83c\\udf1f\\ud83c\\udf1f",
+            "description": "#MAGA #WWG1WGA\n\"It's easier to fool people than to convince them that they have been fooled\" - Mark Twain",
+            "followers_count": 4884,
+            "friends_count": 5296,
+            "statuses_count": 27569
+          },
+          "country": null,
+          "parent_id": "1221006547985321986",
+          "hashtags": [
+            "QAnon",
+            "CoronaVirus",
+            "DeepState",
+            "WWG1WGA",
+            "MAGA",
+            "Vaccination",
+            "Soros",
+            "CoronaroVirus",
+            "BillGates",
+            "CIA",
+            "DrainTheSwamp"
+          ],
+          "mentions": [
+            {
+              "id": "1155821644864204800",
+              "screen_name": "RokJohannes",
+              "name": "R O Q",
+              "description": "#WeAreTheNewsNow #QAnon #MAGA #WhiteDragonSociety #WWG1WGA #DrainTheSwamp #TheGreatAwakening #CoronaGate",
+              "followers_count": 24148,
+              "friends_count": 18388,
+              "statuses_count": 644
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221941383755419648",
+        "_score": 108.84794,
+        "_routing": "1221906429373812736",
+        "_source": {
+          "content": "RT @RokJohannes: #CoronaVirus #WeAreTheNewsNow #BillGates #Vaccination #CIA #Soros #DeepState #WWG1WGA #QAnon #DrainTheSwamp #TheGreatAwake\\u2026",
+          "location": null,
+          "retweet_count": 10,
+          "favorite_count": 0,
+          "neg": 0,
+          "neu": 1,
+          "pos": 0,
+          "compound": 0,
+          "happened_at": "2020-01-28T00:41:43+01:00",
+          "author": {
+            "id": "1194620284080476161",
+            "screen_name": "hanneloremorto5",
+            "name": "\\ud83c\\uddfa\\ud83c\\uddf8\\ud83c\\uddfa\\ud83c\\uddf8Anne\\ud83c\\uddfa\\ud83c\\uddf8\\ud83c\\uddfa\\ud83c\\uddf8",
+            "description": "We are a Republic                The best argument against democracy is a five-minute conversation with the average voter.  Winston Churchill",
+            "followers_count": 11705,
+            "friends_count": 12318,
+            "statuses_count": 46452
+          },
+          "country": null,
+          "parent_id": "1221906429373812736",
+          "hashtags": [
+            "BillGates",
+            "CIA",
+            "DeepState",
+            "WWG1WGA",
+            "QAnon",
+            "WeAreTheNewsNow",
+            "CoronaVirus",
+            "DrainTheSwamp",
+            "Vaccination",
+            "Soros"
+          ],
+          "mentions": [
+            {
+              "id": "1155821644864204800",
+              "screen_name": "RokJohannes",
+              "name": "R O Q",
+              "description": "#WeAreTheNewsNow #QAnon #MAGA #WhiteDragonSociety #WWG1WGA #DrainTheSwamp #TheGreatAwakening #CoronaGate",
+              "followers_count": 24148,
+              "friends_count": 18388,
+              "statuses_count": 644
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221935384029954048",
+        "_score": 108.84794,
+        "_routing": "1221906429373812736",
+        "_source": {
+          "content": "RT @RokJohannes: #CoronaVirus #WeAreTheNewsNow #BillGates #Vaccination #CIA #Soros #DeepState #WWG1WGA #QAnon #DrainTheSwamp #TheGreatAwake\\u2026",
+          "location": null,
+          "retweet_count": 10,
+          "favorite_count": 0,
+          "neg": 0,
+          "neu": 1,
+          "pos": 0,
+          "compound": 0,
+          "happened_at": "2020-01-28T00:17:52+01:00",
+          "author": {
+            "id": "1189312439566962688",
+            "screen_name": "ABuKulele61",
+            "name": "Angel b",
+            "description": "Patriot, Gma of a Marine!\\u2665\\ufe0f\\ud83c\\uddfa\\ud83c\\uddf8Lover of kindness truth and of course... God. \\ud83d\\ude4f\\ud83c\\udffc Let Freedom Ring! \\ud83d\\udd14 musician\\ud83c\\udfb6\\ud83c\\udfb5\\ud83c\\udfb6PatriotsSoapBox on YouTube",
+            "followers_count": 467,
+            "friends_count": 622,
+            "statuses_count": 8025
+          },
+          "country": null,
+          "parent_id": "1221906429373812736",
+          "hashtags": [
+            "Soros",
+            "Vaccination",
+            "WWG1WGA",
+            "WeAreTheNewsNow",
+            "CoronaVirus",
+            "DeepState",
+            "QAnon",
+            "DrainTheSwamp",
+            "BillGates",
+            "CIA"
+          ],
+          "mentions": [
+            {
+              "id": "1155821644864204800",
+              "screen_name": "RokJohannes",
+              "name": "R O Q",
+              "description": "#WeAreTheNewsNow #QAnon #MAGA #WhiteDragonSociety #WWG1WGA #DrainTheSwamp #TheGreatAwakening #CoronaGate",
+              "followers_count": 24148,
+              "friends_count": 18388,
+              "statuses_count": 644
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

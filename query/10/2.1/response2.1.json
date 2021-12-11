@@ -1,0 +1,465 @@
+{
+  "took": 2166,
+  "timed_out": false,
+  "_shards": {
+    "total": 3,
+    "successful": 3,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 10000,
+      "relation": "gte"
+    },
+    "max_score": 150.05922,
+    "hits": [
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1220219270342291456",
+        "_score": 150.05922,
+        "_routing": "1220219248297103360",
+        "_source": {
+          "content": "RT @SaRaAshcraft: @jturner63 @JenJustjen515 @AutisticByronII @atensnut Fentanyl/Opiods (Sachler), Vaccines (Gates), civil unrest (Soros), \"\\u2026",
+          "location": null,
+          "retweet_count": 118,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-23T06:38:39+01:00",
+          "author": {
+            "id": "116807039",
+            "screen_name": "thymegarden",
+            "name": "Virginia Everett",
+            "description": "",
+            "followers_count": 314,
+            "friends_count": 81,
+            "statuses_count": 19055
+          },
+          "country": null,
+          "parent_id": "932838016296587264",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "173582183",
+              "screen_name": "jturner63",
+              "name": "\\ud83e\\udd90 Cajun Texan \\ud83e\\udd80",
+              "description": null,
+              "followers_count": null,
+              "friends_count": null,
+              "statuses_count": null
+            },
+            {
+              "id": "920960142052614144",
+              "screen_name": "AutisticByronII",
+              "name": "I Follow The White Rabbit",
+              "description": null,
+              "followers_count": null,
+              "friends_count": null,
+              "statuses_count": null
+            },
+            {
+              "id": "716336900332658689",
+              "screen_name": "JenJustjen515",
+              "name": "JustJen\\ud83d\\udc951111\\ud83d\\udc95",
+              "description": null,
+              "followers_count": null,
+              "friends_count": null,
+              "statuses_count": null
+            },
+            {
+              "id": "4311670299",
+              "screen_name": "SaRaAshcraft",
+              "name": "Sarah Ruth Ashcraft",
+              "description": null,
+              "followers_count": null,
+              "friends_count": null,
+              "statuses_count": null
+            },
+            {
+              "id": "22677397",
+              "screen_name": "atensnut",
+              "name": "Juanita Broaddrick",
+              "description": "Author, \"You'd Better Put Some Ice On That\" retired RN & business owner, SPEAKER, PROUD TRUMP SUPPORTER",
+              "followers_count": 433364,
+              "friends_count": 6121,
+              "statuses_count": 20064
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221602655333687298",
+        "_score": 141.39864,
+        "_routing": "1221558952623853568",
+        "_source": {
+          "content": "RT @Kerryactivism: 2/2) Soros/Gates FF\n\nGates owns patent to virus which is a new name for SARS next Gates &amp; CDC will be pushing for vaccin\\u2026",
+          "location": null,
+          "retweet_count": 12,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-27T02:15:43+01:00",
+          "author": {
+            "id": "62259750",
+            "screen_name": "shines46",
+            "name": "Sharon Hines\\ud83c\\uddfa\\ud83c\\uddf8\\ud83c\\uddfa\\ud83c\\uddf8\\ud83c\\uddfa\\ud83c\\uddf8\\ud83c\\uddfa\\ud83c\\uddf8\\ud83c\\uddfa\\ud83c\\uddf8",
+            "description": "\\u201cAmerica will never be destroyed from the outside. If we falter and lose our freedoms, it will be because we destroyed ourselves\\u201d -Abraham Lincoln",
+            "followers_count": 249,
+            "friends_count": 267,
+            "statuses_count": 37699
+          },
+          "country": null,
+          "parent_id": "1221558952623853568",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "2706779234",
+              "screen_name": "Kerryactivism",
+              "name": "KerryActivism",
+              "description": "Twitter has hold on me following back. WILL FB all asap.\n#MAGA #KAG #TRUMP2020 #PATRIOT \nOutspoken, sometimes I cuss, but online soldier for our country.\\ud83d\\ude0a",
+              "followers_count": 7360,
+              "friends_count": 4046,
+              "statuses_count": 34408
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221588168526442498",
+        "_score": 141.39864,
+        "_routing": "1221558952623853568",
+        "_source": {
+          "content": "RT @Kerryactivism: 2/2) Soros/Gates FF\n\nGates owns patent to virus which is a new name for SARS next Gates &amp; CDC will be pushing for vaccin\\u2026",
+          "location": null,
+          "retweet_count": 12,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-27T01:18:10+01:00",
+          "author": {
+            "id": "1868524597",
+            "screen_name": "JamiepartinJp",
+            "name": "jesse d. praier",
+            "description": "I am me being ME how I like it Thank you lord for everything. I trust My God and our President Donald Trump.#MAGA i was born in heaven only visiting earth.#KAG",
+            "followers_count": 2025,
+            "friends_count": 2972,
+            "statuses_count": 16456
+          },
+          "country": null,
+          "parent_id": "1221558952623853568",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "2706779234",
+              "screen_name": "Kerryactivism",
+              "name": "KerryActivism",
+              "description": "Twitter has hold on me following back. WILL FB all asap.\n#MAGA #KAG #TRUMP2020 #PATRIOT \nOutspoken, sometimes I cuss, but online soldier for our country.\\ud83d\\ude0a",
+              "followers_count": 7360,
+              "friends_count": 4046,
+              "statuses_count": 34408
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221589006594584576",
+        "_score": 141.39864,
+        "_routing": "1221558952623853568",
+        "_source": {
+          "content": "RT @Kerryactivism: 2/2) Soros/Gates FF\n\nGates owns patent to virus which is a new name for SARS next Gates &amp; CDC will be pushing for vaccin\\u2026",
+          "location": null,
+          "retweet_count": 12,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-27T01:21:29+01:00",
+          "author": {
+            "id": "766654270913384448",
+            "screen_name": "Metaloid3",
+            "name": "Metaloid",
+            "description": "Q My tweets are my opinion. Old dude tired of being ripped off by Goverment. support#PPC\\ud83c\\udde8\\ud83c\\udde6\\ud83c\\uddfa\\ud83c\\uddf8#WWG1WGA #TimetoRevolt #StormtheHill #TrudeauLiesCanadiansDie",
+            "followers_count": 1308,
+            "friends_count": 2268,
+            "statuses_count": 61481
+          },
+          "country": null,
+          "parent_id": "1221558952623853568",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "2706779234",
+              "screen_name": "Kerryactivism",
+              "name": "KerryActivism",
+              "description": "Twitter has hold on me following back. WILL FB all asap.\n#MAGA #KAG #TRUMP2020 #PATRIOT \nOutspoken, sometimes I cuss, but online soldier for our country.\\ud83d\\ude0a",
+              "followers_count": 7360,
+              "friends_count": 4046,
+              "statuses_count": 34408
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221560199837732865",
+        "_score": 141.39864,
+        "_routing": "1221558952623853568",
+        "_source": {
+          "content": "RT @Kerryactivism: 2/2) Soros/Gates FF\n\nGates owns patent to virus which is a new name for SARS next Gates &amp; CDC will be pushing for vaccin\\u2026",
+          "location": null,
+          "retweet_count": 12,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-26T23:27:01+01:00",
+          "author": {
+            "id": "25145373",
+            "screen_name": "Jenny_IDLYITW",
+            "name": "Jenny",
+            "description": "Creator/Writer/Editor of websites. Granddaughter of dirt poor LEGAL Swedish immigrants.\nCilantro is a vile weed that ruins everything it touches.",
+            "followers_count": 3952,
+            "friends_count": 1320,
+            "statuses_count": 68413
+          },
+          "country": null,
+          "parent_id": "1221558952623853568",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "2706779234",
+              "screen_name": "Kerryactivism",
+              "name": "KerryActivism",
+              "description": "Twitter has hold on me following back. WILL FB all asap.\n#MAGA #KAG #TRUMP2020 #PATRIOT \nOutspoken, sometimes I cuss, but online soldier for our country.\\ud83d\\ude0a",
+              "followers_count": 7360,
+              "friends_count": 4046,
+              "statuses_count": 34408
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221560816786444289",
+        "_score": 141.39864,
+        "_routing": "1221558952623853568",
+        "_source": {
+          "content": "RT @Kerryactivism: 2/2) Soros/Gates FF\n\nGates owns patent to virus which is a new name for SARS next Gates &amp; CDC will be pushing for vaccin\\u2026",
+          "location": null,
+          "retweet_count": 12,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-26T23:29:28+01:00",
+          "author": {
+            "id": "1128819367003742210",
+            "screen_name": "hkphooey7",
+            "name": "Dr Madhatter \\u2b50\\ufe0f\\u2b50\\ufe0f\\u2b50\\ufe0f",
+            "description": "America First #KAG #MAGA\\ud83c\\uddfa\\ud83c\\uddf8\\ud83c\\udfb8\\ud83c\\udfc8 \\u26f3\\ufe0f Let a canine friend rescue you \\ud83d\\udc15 1A 2A #NRA US Military & LEO supporter #WWG1WGA",
+            "followers_count": 4993,
+            "friends_count": 5425,
+            "statuses_count": 91445
+          },
+          "country": null,
+          "parent_id": "1221558952623853568",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "2706779234",
+              "screen_name": "Kerryactivism",
+              "name": "KerryActivism",
+              "description": "Twitter has hold on me following back. WILL FB all asap.\n#MAGA #KAG #TRUMP2020 #PATRIOT \nOutspoken, sometimes I cuss, but online soldier for our country.\\ud83d\\ude0a",
+              "followers_count": 7360,
+              "friends_count": 4046,
+              "statuses_count": 34408
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221567904988254208",
+        "_score": 141.39864,
+        "_routing": "1221558952623853568",
+        "_source": {
+          "content": "RT @Kerryactivism: 2/2) Soros/Gates FF\n\nGates owns patent to virus which is a new name for SARS next Gates &amp; CDC will be pushing for vaccin\\u2026",
+          "location": null,
+          "retweet_count": 12,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-26T23:57:38+01:00",
+          "author": {
+            "id": "755147429041713154",
+            "screen_name": "KZPetro",
+            "name": "Covid-19 Covered up!",
+            "description": "\\ud83c\\udf34 Twitter POW.",
+            "followers_count": 4085,
+            "friends_count": 4758,
+            "statuses_count": 29815
+          },
+          "country": null,
+          "parent_id": "1221558952623853568",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "2706779234",
+              "screen_name": "Kerryactivism",
+              "name": "KerryActivism",
+              "description": "Twitter has hold on me following back. WILL FB all asap.\n#MAGA #KAG #TRUMP2020 #PATRIOT \nOutspoken, sometimes I cuss, but online soldier for our country.\\ud83d\\ude0a",
+              "followers_count": 7360,
+              "friends_count": 4046,
+              "statuses_count": 34408
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221570850979119104",
+        "_score": 141.39864,
+        "_routing": "1221558952623853568",
+        "_source": {
+          "content": "RT @Kerryactivism: 2/2) Soros/Gates FF\n\nGates owns patent to virus which is a new name for SARS next Gates &amp; CDC will be pushing for vaccin\\u2026",
+          "location": null,
+          "retweet_count": 12,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-27T00:09:21+01:00",
+          "author": {
+            "id": "1066804462923112448",
+            "screen_name": "Kat98504321",
+            "name": "Kat",
+            "description": "God, family, nature, music, art\nParler: @HeyIrish",
+            "followers_count": 264,
+            "friends_count": 419,
+            "statuses_count": 9273
+          },
+          "country": null,
+          "parent_id": "1221558952623853568",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "2706779234",
+              "screen_name": "Kerryactivism",
+              "name": "KerryActivism",
+              "description": "Twitter has hold on me following back. WILL FB all asap.\n#MAGA #KAG #TRUMP2020 #PATRIOT \nOutspoken, sometimes I cuss, but online soldier for our country.\\ud83d\\ude0a",
+              "followers_count": 7360,
+              "friends_count": 4046,
+              "statuses_count": 34408
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221840734271299585",
+        "_score": 140.5072,
+        "_routing": "1220807218876076033",
+        "_source": {
+          "content": "RT @RokJohannes: #BillGates #Vaccination #CIA #Soros #DeepState #WWG1WGA #QAnon #MAGA #DrainTheSwamp\n \nBill Gates kept telling us a pandemi\\u2026",
+          "location": null,
+          "retweet_count": 43,
+          "favorite_count": 0,
+          "neg": 0,
+          "neu": 1,
+          "pos": 0,
+          "compound": 0,
+          "happened_at": "2020-01-27T18:01:46+01:00",
+          "author": {
+            "id": "269087226",
+            "screen_name": "mayumitakeda_NY",
+            "name": "\\ud83e\\udddf\\u200d\\u2640\\ufe0f \\ud835\\udd44\\ud835\\udd52\\ud835\\udd6a\\ud835\\udd66\\ud835\\udd5e\\ud835\\udd5a \\ud835\\udd4b\\ud835\\udd52\\ud835\\udd5c\\ud835\\udd56\\ud835\\udd55\\ud835\\udd52 \\ud83c\\uddfa\\ud83c\\uddf8\\u2615\\ufe0f",
+            "description": "NY\\u5728\\u8074\\u899a\\u969c\\u5bb3\\u8005\\u30012017\\u5e74\\u4e0d\\u5409\\u306a13\\u65e5\\u91d1\\u66dc\\u65e5\\u306b\\u7c73\\u56fd\\u4eba\\u3068\\u3057\\u3066\\u5e30\\u5316 \\u6b66\\u7530\\u9ebb\\u5f13\\u300c\\u30d5\\u30a1\\u30a4\\u30c8\\uff01\\u300d\\u5e7b\\u51ac\\u820e\\u3088\\u308a\\u51fa\\u7248\\u3002JPN-American\\ud83c\\uddfa\\ud83c\\uddf8\\ud83c\\uddef\\ud83c\\uddf5, Patriot, Deaf local guide, author, nanny. Music \\ud83c\\udfb6 is my life. M.A.G.A.\\ud83c\\udf0e\\ud83d\\udc38\\ud83d\\udc7d",
+            "followers_count": 3526,
+            "friends_count": 3416,
+            "statuses_count": 77656
+          },
+          "country": null,
+          "parent_id": "1220807218876076033",
+          "hashtags": [
+            "MAGA",
+            "WWG1WGA",
+            "QAnon",
+            "DeepState",
+            "DrainTheSwamp",
+            "CIA",
+            "Vaccination",
+            "Soros",
+            "BillGates"
+          ],
+          "mentions": [
+            {
+              "id": "1155821644864204800",
+              "screen_name": "RokJohannes",
+              "name": "R O Q",
+              "description": "#WeAreTheNewsNow #QAnon #MAGA #WhiteDragonSociety #WWG1WGA #DrainTheSwamp #TheGreatAwakening #CoronaGate",
+              "followers_count": 24148,
+              "friends_count": 18388,
+              "statuses_count": 644
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1221558952623853568",
+        "_score": 139.47075,
+        "_routing": "1221558952623853568",
+        "_source": {
+          "content": "2/2) Soros/Gates FF\n\nGates owns patent to virus which is a new name for SARS next Gates &amp; CDC will be pushing for vaccine https://t.co/nbXwKnjsUl",
+          "location": null,
+          "retweet_count": 12,
+          "favorite_count": 22,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-26T23:22:04+01:00",
+          "author": {
+            "id": "2706779234",
+            "screen_name": "Kerryactivism",
+            "name": "KerryActivism",
+            "description": "Twitter has hold on me following back. WILL FB all asap.\n#MAGA #KAG #TRUMP2020 #PATRIOT \nOutspoken, sometimes I cuss, but online soldier for our country.\\ud83d\\ude0a",
+            "followers_count": 7360,
+            "friends_count": 4046,
+            "statuses_count": 34408
+          },
+          "country": null,
+          "parent_id": null,
+          "hashtags": [],
+          "mentions": []
+        }
+      }
+    ]
+  }
+}

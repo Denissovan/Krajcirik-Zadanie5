@@ -1,0 +1,18 @@
+{
+  "query": {
+    "bool" : {
+      "must" : {
+        "multi_match" : { 
+            "query" : "gates s0ros vaccine micr0chip",
+            "fields": [
+                "author.name.shingle^6",
+                "content^8",
+                "author.description.shingle^6",
+                "author.screen_name^10"
+            ],
+            "fuzziness": "AUTO"
+        }
+      }
+    }
+  }
+}

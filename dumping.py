@@ -55,7 +55,6 @@ tweet_mentions = Table('tweet_mentions',
                         Column(('account_id'), BIGINT, ForeignKey('accounts.id')),
                         Column(('tweet_id'), VARCHAR(20), ForeignKey('tweets.id')))
 
-
 class Tweet(Base):
     __tablename__ = 'tweets'
     id = Column(VARCHAR(20), primary_key=True)
@@ -100,21 +99,13 @@ class AccountDocument:
 class LocationDocument:
     def __init__(self, location_point):
         loc_point = to_shape(location_point)
-        # self.long, self.lat = loc_point.x, loc_point.y 
         self.lat, self.lon = loc_point.y, loc_point.x 
-
-
-# class HashTagDocument:
-#     def __init__(self, hashtag_obj):
-#         self.value = hashtag_obj.value 
-
 
 
 class CountryDocument:
     def __init__(self, country_obj):
         self.code, self.name = country_obj.code, country_obj.name
-        # self.code = country_obj.code
-        # self.name = country_obj.name
+    
 
 
 class TweetDocument:
@@ -141,16 +132,9 @@ class TweetDocument:
 
 def main():
     offset = "0"
-    # results = session.query(Tweet).filter(Tweet.id > start).order_by(Tweet.id).limit(10)
-    
-    # 1220785872313946116
-    # result with location not null
-    # results = session.query(Tweet).filter(Tweet.id == '1220785872313946116').order_by(Tweet.id).limit(10)
 
-    # 1223123169646542849
-    # result with parent_id not null
 
-    file_num = 3
+    file_num = 0
 
 
     while True:    
@@ -164,7 +148,6 @@ def main():
                 break
             for res in results:
                 routing = res.id if res.parent_id is None else res.parent_id
-                # file.write('{"index": {"_id":"'{}'", "routing":"'{}'"}}\n'.format(res.id, routing))
                 file.write('{"index":{"_id":"' + res.id + '", "routing":"' + routing + '"}}\n')
                 to_dump = TweetDocument(res)
                 file.write(json.dumps(to_dump, default= lambda x: x.__dict__)+"\n")

@@ -1,0 +1,208 @@
+{
+    "aggs": {
+        "agg_week": {
+            "date_histogram": {
+                "field": "happened_at",
+                "calendar_interval": "week"
+            },
+            "aggs": {
+                "Deep State": {
+                    "filter": {
+                        "terms": {
+                            "hashtags": ["DeepstateVirus", "DeepStateVaccine", "DeepStateFauci"]
+                        }
+                    },
+                    "aggs": {
+                        "retweet_deep_state": {
+                            "sum": {
+                                "field": "retweet_count"
+                            }
+                        }
+                    }
+                },
+                "Qanon": {
+                    "filter": {
+                        "terms": {
+                            "hashtags": ["QAnon", "MAGA", "WWG1WGA"]
+                        }
+                    },
+                    "aggs": {
+                        "retweet_qanon": {
+                            "sum": {
+                                "field": "retweet_count"
+                            }
+                        }
+                    }
+                },
+                "New world order": {
+                    "filter": {
+                        "term": {
+                            "hashtags": "Agenda21"
+                        }
+                    },
+                    "aggs": {
+                        "retweet_new_world_order": {
+                            "sum": {
+                                "field": "retweet_count"
+                            }
+                        }
+                    }
+                },
+                "The virus escaped from a Chinese lab": {
+                    "filter": {
+                        "terms": {
+                            "hashtags": ["CCPVirus", "ChinaLiedPeopleDied"]
+                        }
+                    },
+                    "aggs": {
+                        "retweet_virus_escaped_chinese_lab": {
+                            "sum": {
+                                "field": "retweet_count"
+                            }
+                        }
+                    }
+                },
+                "GLobal Warming is HOAX": {
+                    "filter": {
+                        "terms": {
+                            "hashtags": ["ClimateChangeHoax", "GlobalWarmingHoax"]
+                        }
+                    },
+                    "aggs": {
+                        "retweet_global_warming_hoax": {
+                            "sum": {
+                                "field": "retweet_count"
+                            }
+                        }
+                    }
+                },
+                "COVID19 and microchipping": {
+                    "filter": {
+                        "terms": {
+                            "hashtags": ["SorosVirus", "BillGAtes"]
+                        }
+                    },
+                    "aggs": {
+                        "retweet_covid19_microchiping": {
+                            "sum": {
+                                "field": "retweet_count"
+                            }
+                        }
+                    }
+                },
+                "COVID19 is preaded by 5G": {
+                    "filter": {
+                        "term": {
+                            "hashtags": "5GCoronavirus"
+                        }
+                    },
+                    "aggs": {
+                        "retweet_covid19_5G": {
+                            "sum": {
+                                "field": "retweet_count"
+                            }
+                        }
+                    }
+                },
+                "Moon landing is fake": {
+                    "filter": {
+                        "terms": {
+                            "hashtags": ["MoonLandingHoax", "moonhoax"]
+                        }
+                    },
+                    "aggs": {
+                        "retweet_moon_landing_fake": {
+                            "sum": {
+                                "field": "retweet_count"
+                            }
+                        }
+                    }
+                },
+                "9/11 was inside job": {
+                    "filter": {
+                        "terms": {
+                            "hashtags": ["911truth", "911insidejob"]
+                        }
+                    },
+                    "aggs": {
+                        "retweet_9/11_inside_job": {
+                            "sum": {
+                                "field": "retweet_count"
+                            }
+                        }
+                    }
+                },
+                "Pizzagate conspiracy theory": {
+                    "filter": {
+                        "terms": {
+                            "hashtags": ["pizzaGateIsReal", "PedoGateIsReal"]
+                        }
+                    },
+                    "aggs": {
+                        "retweet_pizzagate": {
+                            "sum": {
+                                "field": "retweet_count"
+                            }
+                        }
+                    }
+                },
+                "Chemtrails": {
+                    "filter": {
+                        "term": {
+                            "hashtags": "Chemtrails"
+                        }
+                    },
+                    "aggs": {
+                        "retweet_chemtrails": {
+                            "sum": {
+                                "field": "retweet_count"
+                            }
+                        }
+                    }
+                },
+                "FlatEarth": {
+                    "filter": {
+                        "term": {
+                            "hashtags": "flatEarth"
+                        }
+                    },
+                    "aggs": {
+                        "retweet_flat_earth": {
+                            "sum": {
+                                "field": "retweet_count"
+                            }
+                        }
+                    }
+                },
+                "Illuminati": {
+                    "filter": {
+                        "term": {
+                            "hashtags": "illuminati"
+                        }
+                    },
+                    "aggs": {
+                        "retweet_iluminati": {
+                            "sum": {
+                                "field": "retweet_count"
+                            }
+                        }
+                    }
+                },
+                "Reptilian conspiracy theory": {
+                    "filter": {
+                        "term": {
+                            "hashtags": "reptilians"
+                        }
+                    },
+                    "aggs": {
+                        "retweet_rept": {
+                            "sum": {
+                                "field": "retweet_count"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

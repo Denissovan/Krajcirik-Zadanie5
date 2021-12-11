@@ -1,0 +1,470 @@
+{
+  "took": 3356,
+  "timed_out": false,
+  "_shards": {
+    "total": 3,
+    "successful": 3,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 10000,
+      "relation": "gte"
+    },
+    "max_score": 22.471045,
+    "hits": [
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1220620515683028992",
+        "_score": 22.471045,
+        "_routing": "1220620513111769088",
+        "_source": {
+          "content": "RT @PrisonPlanet: Progressive media; Forget the fact they carry coronavirus, bats are a valuable source of protein. Cows are killing the pl\\u2026",
+          "location": null,
+          "retweet_count": 3082,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-24T09:13:03+01:00",
+          "author": {
+            "id": "740995314266558464",
+            "screen_name": "TangRoy17",
+            "name": "Tango'd.\\u274c. \\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec \\ud83c\\udde7",
+            "description": "#BritishLivesMatter. Freedom of Speech.  Freedom from EU. \nNow on Parler @TangRoy17 ...\n#BrexitParty . Ex RAF.   No to Gates Foundation vaccine.....",
+            "followers_count": 5962,
+            "friends_count": 5315,
+            "statuses_count": 172773
+          },
+          "country": null,
+          "parent_id": "1220371711289372672",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "18643437",
+              "screen_name": "PrisonPlanet",
+              "name": "Paul Joseph Watson",
+              "description": "\"Watson is a brilliant polemicist.\" The Spectator.....\\u201dPopular cutting edge political commentator.\\u201d The Jewish Voice.",
+              "followers_count": 1192242,
+              "friends_count": 748,
+              "statuses_count": 73498
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1220786601938341889",
+        "_score": 22.471045,
+        "_routing": "1220786596397682689",
+        "_source": {
+          "content": "RT @gmjuk: Chinese students from Wuhan 'went clubbing in Cambridge this week'\n#SARS2020  #sars\n\n https://t.co/RT4Ncv9pbk",
+          "location": null,
+          "retweet_count": 5,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-24T20:13:01+01:00",
+          "author": {
+            "id": "740995314266558464",
+            "screen_name": "TangRoy17",
+            "name": "Tango'd.\\u274c. \\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec \\ud83c\\udde7",
+            "description": "#BritishLivesMatter. Freedom of Speech.  Freedom from EU. \nNow on Parler @TangRoy17 ...\n#BrexitParty . Ex RAF.   No to Gates Foundation vaccine.....",
+            "followers_count": 5962,
+            "friends_count": 5315,
+            "statuses_count": 172773
+          },
+          "country": null,
+          "parent_id": "1220786529527894017",
+          "hashtags": [
+            "sars",
+            "SARS2020"
+          ],
+          "mentions": [
+            {
+              "id": "242398620",
+              "screen_name": "gmjuk",
+              "name": "Please do Retweet \\ud83d\\udd31 @TweetForBritain",
+              "description": "It's nice to talk! So why not Reply? Please do Retweet.\n Dyslexic obviously intelligent !!                   \nIt all comes down to who you voted for.   l\\ud83c\\uddec\\ud83c\\udde7",
+              "followers_count": 1458,
+              "friends_count": 2647,
+              "statuses_count": 21812
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1220734131618942976",
+        "_score": 22.471045,
+        "_routing": "1220734128825331712",
+        "_source": {
+          "content": "RT @EYEofPROVENANCE: @ZigmanSara @LucyRottweilerW \"They\" want it to spread like the intentional fires in Australia and Brazil - HUMAN GUINE\\u2026",
+          "location": null,
+          "retweet_count": 3,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-24T16:44:31+01:00",
+          "author": {
+            "id": "740995314266558464",
+            "screen_name": "TangRoy17",
+            "name": "Tango'd.\\u274c. \\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec \\ud83c\\udde7",
+            "description": "#BritishLivesMatter. Freedom of Speech.  Freedom from EU. \nNow on Parler @TangRoy17 ...\n#BrexitParty . Ex RAF.   No to Gates Foundation vaccine.....",
+            "followers_count": 5962,
+            "friends_count": 5315,
+            "statuses_count": 172773
+          },
+          "country": null,
+          "parent_id": "1220693989705355264",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "1121691033589338112",
+              "screen_name": "LucyRottweilerW",
+              "name": "Lucy W \\ud83c\\uddec\\ud83c\\udde7\\u2764\\ud83c\\uddfa\\ud83c\\uddf8 also Parler/VK \\ud83d\\udc4d",
+              "description": null,
+              "followers_count": null,
+              "friends_count": null,
+              "statuses_count": null
+            },
+            {
+              "id": "54388730",
+              "screen_name": "EYEofPROVENANCE",
+              "name": "EyeofProvenance",
+              "description": "Because thinks need looking into and finding their provenance in which they originated from!",
+              "followers_count": 1374,
+              "friends_count": 3419,
+              "statuses_count": 20469
+            },
+            {
+              "id": "1113354665524174848",
+              "screen_name": "ZigmanSara",
+              "name": "Sara Zigman",
+              "description": "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident.\n#ComeBackFighting.",
+              "followers_count": 3631,
+              "friends_count": 4955,
+              "statuses_count": 42014
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1220810263437434880",
+        "_score": 22.471045,
+        "_routing": "1220810260723703814",
+        "_source": {
+          "content": "RT @PatriotGeorgia: Chicago Woman Diagnosed with China\\u2019s Coronavirus https://t.co/JI31BZVPgz",
+          "location": null,
+          "retweet_count": 27,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-24T21:47:03+01:00",
+          "author": {
+            "id": "740995314266558464",
+            "screen_name": "TangRoy17",
+            "name": "Tango'd.\\u274c. \\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec \\ud83c\\udde7",
+            "description": "#BritishLivesMatter. Freedom of Speech.  Freedom from EU. \nNow on Parler @TangRoy17 ...\n#BrexitParty . Ex RAF.   No to Gates Foundation vaccine.....",
+            "followers_count": 5962,
+            "friends_count": 5315,
+            "statuses_count": 172773
+          },
+          "country": null,
+          "parent_id": "1220784692653367296",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "3106534151",
+              "screen_name": "PatriotGeorgia",
+              "name": "\\ud83c\\uddfa\\ud83c\\uddf8Jimmy 2 Scoops\\ud83c\\uddfa\\ud83c\\uddf8",
+              "description": "Preserving Life, Liberty, and the Pursuit of Happiness for future generations #JESUS #MAGA #TrumpTrain \\ud83d\\ude82#2A #Deplorable #NRA #GOA #USAR 70-76\\ud83c\\uddfa\\ud83c\\uddf8 Stable Genius",
+              "followers_count": 68495,
+              "friends_count": 62143,
+              "statuses_count": 246351
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1220827130101190657",
+        "_score": 22.471045,
+        "_routing": "1220827125831196672",
+        "_source": {
+          "content": "RT @EYEofPROVENANCE: \"They\" want it to spread like the intentional fires in Australia and Brazil - HUMAN GUINEA PIGS - EBOLA, ANTRHAX, CHOL\\u2026",
+          "location": null,
+          "retweet_count": 1,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-24T22:54:04+01:00",
+          "author": {
+            "id": "740995314266558464",
+            "screen_name": "TangRoy17",
+            "name": "Tango'd.\\u274c. \\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec \\ud83c\\udde7",
+            "description": "#BritishLivesMatter. Freedom of Speech.  Freedom from EU. \nNow on Parler @TangRoy17 ...\n#BrexitParty . Ex RAF.   No to Gates Foundation vaccine.....",
+            "followers_count": 5962,
+            "friends_count": 5315,
+            "statuses_count": 172773
+          },
+          "country": null,
+          "parent_id": "1220689077319630848",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "54388730",
+              "screen_name": "EYEofPROVENANCE",
+              "name": "EyeofProvenance",
+              "description": "Because thinks need looking into and finding their provenance in which they originated from!",
+              "followers_count": 1374,
+              "friends_count": 3419,
+              "statuses_count": 20469
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1220827169150197760",
+        "_score": 22.471045,
+        "_routing": "1220827163835977728",
+        "_source": {
+          "content": "RT @MailOnline: 'Nurse' claims corpses of coronavirus victims are left lying in Wuhan hospital crammed with patients #CoronavirusOutbreak\\u2026",
+          "location": null,
+          "retweet_count": 79,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-24T22:54:13+01:00",
+          "author": {
+            "id": "740995314266558464",
+            "screen_name": "TangRoy17",
+            "name": "Tango'd.\\u274c. \\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec \\ud83c\\udde7",
+            "description": "#BritishLivesMatter. Freedom of Speech.  Freedom from EU. \nNow on Parler @TangRoy17 ...\n#BrexitParty . Ex RAF.   No to Gates Foundation vaccine.....",
+            "followers_count": 5962,
+            "friends_count": 5315,
+            "statuses_count": 172773
+          },
+          "country": null,
+          "parent_id": "1220687446628679680",
+          "hashtags": [
+            "CoronavirusOutbreak"
+          ],
+          "mentions": [
+            {
+              "id": "15438913",
+              "screen_name": "MailOnline",
+              "name": "Daily Mail Online",
+              "description": "For the latest updates on breaking news visit our website https://t.co/5os3efxRyQ #seriouslypopular",
+              "followers_count": 2576058,
+              "friends_count": 2282,
+              "statuses_count": 337238
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1220462006521737221",
+        "_score": 22.471045,
+        "_routing": "1220461983641866240",
+        "_source": {
+          "content": "RT @TeaBoots: Video of Wuhan City in China as authorities try to disinfect a contaminated area after discovery of mutated virus there \n\nCCP\\u2026",
+          "location": null,
+          "retweet_count": 234,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-23T22:43:12+01:00",
+          "author": {
+            "id": "740995314266558464",
+            "screen_name": "TangRoy17",
+            "name": "Tango'd.\\u274c. \\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec \\ud83c\\udde7",
+            "description": "#BritishLivesMatter. Freedom of Speech.  Freedom from EU. \nNow on Parler @TangRoy17 ...\n#BrexitParty . Ex RAF.   No to Gates Foundation vaccine.....",
+            "followers_count": 5962,
+            "friends_count": 5315,
+            "statuses_count": 172773
+          },
+          "country": null,
+          "parent_id": "1220458536699944969",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "756988954755395584",
+              "screen_name": "TeaBoots",
+              "name": "Ruthann",
+              "description": "\\u2764\\ufe0fPresident Trump. Please no \\ud83d\\udeabDM\\u2019S =Insta Block",
+              "followers_count": 59456,
+              "friends_count": 30729,
+              "statuses_count": 194230
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1220467088428601345",
+        "_score": 22.471045,
+        "_routing": "1220467086608093184",
+        "_source": {
+          "content": "RT @NFrechen: People in wuhan China are just falling over and leaking blood. Imagine when rome lost half it's ppl. That would be crazy seei\\u2026",
+          "location": null,
+          "retweet_count": 248,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-23T23:03:23+01:00",
+          "author": {
+            "id": "740995314266558464",
+            "screen_name": "TangRoy17",
+            "name": "Tango'd.\\u274c. \\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec \\ud83c\\udde7",
+            "description": "#BritishLivesMatter. Freedom of Speech.  Freedom from EU. \nNow on Parler @TangRoy17 ...\n#BrexitParty . Ex RAF.   No to Gates Foundation vaccine.....",
+            "followers_count": 5962,
+            "friends_count": 5315,
+            "statuses_count": 172773
+          },
+          "country": null,
+          "parent_id": "1220447390043443205",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "3057959389",
+              "screen_name": "NFrechen",
+              "name": "Nicholas Frechen \\ud83c\\uddfa\\ud83c\\uddf8\\u2696\\ud83d\\udd75\\ufe0f",
+              "description": "Patriot, Destroying Marxism is a hobby. \\u2696Trying to destroy the globalist banking mafia. Trump2020 MAGA\\u270a\\ud83c\\uddfa\\ud83c\\uddf8 Truth is stranger than fiction, much stranger\\ud83d\\ude12\\ud83c\\udf7f\\ud83d\\uddfd",
+              "followers_count": 33119,
+              "friends_count": 22624,
+              "statuses_count": 31067
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1220426032857128968",
+        "_score": 22.471045,
+        "_routing": "1220426027073261571",
+        "_source": {
+          "content": "RT @DemonGza: @pdp8l From what I've gathered they have a lab there in Wuhan and here in the UK,  the company above",
+          "location": null,
+          "retweet_count": 4,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-23T20:20:15+01:00",
+          "author": {
+            "id": "740995314266558464",
+            "screen_name": "TangRoy17",
+            "name": "Tango'd.\\u274c. \\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec \\ud83c\\udde7",
+            "description": "#BritishLivesMatter. Freedom of Speech.  Freedom from EU. \nNow on Parler @TangRoy17 ...\n#BrexitParty . Ex RAF.   No to Gates Foundation vaccine.....",
+            "followers_count": 5962,
+            "friends_count": 5315,
+            "statuses_count": 172773
+          },
+          "country": null,
+          "parent_id": "1220409095859077122",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "181019871",
+              "screen_name": "DemonGza",
+              "name": "Gary\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f",
+              "description": "parler: @DemonGza\n\nEx forces. (CMT). Conspiracy Analyst. #VETERAN #WWG1WGA #LGBT- but definitely more right wing by todays standards.",
+              "followers_count": 1561,
+              "friends_count": 1734,
+              "statuses_count": 18738
+            },
+            {
+              "id": "1149696155674132480",
+              "screen_name": "pdp8l",
+              "name": "CDC6600_PDP8L",
+              "description": null,
+              "followers_count": null,
+              "friends_count": null,
+              "statuses_count": null
+            }
+          ]
+        }
+      },
+      {
+        "_index": "tweets",
+        "_type": "_doc",
+        "_id": "1220426143247020035",
+        "_score": 22.471045,
+        "_routing": "1220426125014380548",
+        "_source": {
+          "content": "RT @MikeyTforTruth: @DemonGza There are indeed some coincidences but the patent is for a less harmful strain that biochemists invented and\\u2026",
+          "location": null,
+          "retweet_count": 10,
+          "favorite_count": 0,
+          "neg": null,
+          "neu": null,
+          "pos": null,
+          "compound": null,
+          "happened_at": "2020-01-23T20:20:41+01:00",
+          "author": {
+            "id": "740995314266558464",
+            "screen_name": "TangRoy17",
+            "name": "Tango'd.\\u274c. \\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\uddec \\ud83c\\udde7",
+            "description": "#BritishLivesMatter. Freedom of Speech.  Freedom from EU. \nNow on Parler @TangRoy17 ...\n#BrexitParty . Ex RAF.   No to Gates Foundation vaccine.....",
+            "followers_count": 5962,
+            "friends_count": 5315,
+            "statuses_count": 172773
+          },
+          "country": null,
+          "parent_id": "1220404833959710722",
+          "hashtags": [],
+          "mentions": [
+            {
+              "id": "833116296",
+              "screen_name": "MikeyTforTruth",
+              "name": "Mikey T",
+              "description": "Take nothing I say as the Truth. Question everything and do your own research. Profile images from https://t.co/vj0gOW9jZi",
+              "followers_count": 53,
+              "friends_count": 124,
+              "statuses_count": 1176
+            },
+            {
+              "id": "181019871",
+              "screen_name": "DemonGza",
+              "name": "Gary\\ud83c\\uddec\\ud83c\\udde7\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f",
+              "description": "parler: @DemonGza\n\nEx forces. (CMT). Conspiracy Analyst. #VETERAN #WWG1WGA #LGBT- but definitely more right wing by todays standards.",
+              "followers_count": 1561,
+              "friends_count": 1734,
+              "statuses_count": 18738
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

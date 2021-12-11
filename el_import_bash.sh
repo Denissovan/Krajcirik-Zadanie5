@@ -14,7 +14,7 @@ do
         do
             # bulk import the file and see if the attempt was succesful
             err=$(curl -sH "Content-Type: application/x-ndjson" -XPOST 'localhost:9200/tweets/_bulk' --data-binary @$file)
-            echo $err
+            # echo $err
             errs=$(echo $err | jq .errors)
             # echo $errs
             if [[ $errs == false ]];
@@ -24,10 +24,9 @@ do
         done
     if [[ $errs == true ]];
         then 
-            echo "$err" | jq
+            # echo "$err" | jq
             echo "$err" >> logfile
             echo Error ocured at file: $file, content: $file >> logfile
     fi
     echo Finished processing file: $file
-break
 done
